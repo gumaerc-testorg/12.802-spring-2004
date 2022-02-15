@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Summary of lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/6f6866c0b8e79988bd019ca4fdaedb36_lte1.pdf
+file: /media/courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/6f6866c0b8e79988bd019ca4fdaedb36_lte1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lte1.pdf
 uid: 6f6866c0-b8e7-9988-bd01-9ca4fdaedb36

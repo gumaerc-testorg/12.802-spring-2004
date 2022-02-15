@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Graphic from section on Internal Gravity Waves.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/5daf1e7995e4b5877e4bf78e32ff0cea_igwtop6.jpg
+file: /media/courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/5daf1e7995e4b5877e4bf78e32ff0cea_igwtop6.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: igwtop6.jpg
 uid: 5daf1e79-95e4-b587-7e4b-f78e32ff0cea
