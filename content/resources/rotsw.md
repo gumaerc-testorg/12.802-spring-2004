@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e66f8387-cc3a-8c27-8919-f58595a7d8c0
 resourcetype: Document
 title: rotsw.pdf
 uid: 294e5405-22da-13c2-4e3f-3a7574aa8f51

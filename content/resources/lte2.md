@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e66f8387-cc3a-8c27-8919-f58595a7d8c0
 resourcetype: Document
 title: lte2.pdf
 uid: 5ce5ef1d-7e8d-40cb-1af5-eb511187adca
