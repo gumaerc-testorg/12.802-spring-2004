@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/55a611ac1c384d575e0cb016af34694d_twowave.jpg
+file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/55a611ac1c384d575e0cb016af34694d_twowave.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

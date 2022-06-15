@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Graphic from section on Internal Gravity Waves.
-file: /media/courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/636ac2c47651ff6fecbc2a3c759d94e2_igw_wkbmodes.jpg
+file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/636ac2c47651ff6fecbc2a3c759d94e2_igw_wkbmodes.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -17,3 +17,5 @@ resourcetype: Image
 title: igw_wkbmodes.jpg
 uid: 636ac2c4-7651-ff6f-ecbc-2a3c759d94e2
 ---
+Graphic from section on Internal Gravity Waves.
+
