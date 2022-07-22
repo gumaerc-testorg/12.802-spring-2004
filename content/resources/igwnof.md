@@ -5,6 +5,7 @@ file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/2d9ed
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: igwnof.pdf
 uid: 2d9edece-471f-7038-2fef-81bb32680487
 ---
 Summary of lecture.
-

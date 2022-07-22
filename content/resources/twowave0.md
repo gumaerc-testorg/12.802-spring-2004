@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: twowave0.jpg
 uid: 7eade2e7-18f9-d30f-7bd6-1d13600bc415
 ---
 Graphic from section on Internal Gravity Waves.
-

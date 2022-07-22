@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: igw_wkbmodes.jpg
 uid: 636ac2c4-7651-ff6f-ecbc-2a3c759d94e2
 ---
 Graphic from section on Internal Gravity Waves.
-

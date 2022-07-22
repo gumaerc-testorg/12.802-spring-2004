@@ -5,6 +5,7 @@ file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/d75a7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: thermdyn.pdf
 uid: d75a7bb4-8bfe-0da6-8285-6601f5a36a8b
 ---
 Summary of lecture.
-

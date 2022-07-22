@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: igw2.gif
 uid: d0f66c72-a4b1-8b76-dfcf-e289c41e60cd
 ---
 Animated graphic of IGW solution.
-

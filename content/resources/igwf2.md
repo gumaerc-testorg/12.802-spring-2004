@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: igwf2.jpg
 uid: 64be7b07-08ab-d7de-877a-16e10686328e
 ---
 Graphic from section on Internal Gravity Waves.
-

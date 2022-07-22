@@ -5,6 +5,7 @@ file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/82cba
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: hough.pdf
 uid: 82cba63a-168e-8d2a-017d-255a203eccef
 ---
 Summary of lecture.
-
