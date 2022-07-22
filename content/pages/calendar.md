@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: f14dcc63-77ec-9965-f526-95e03ca62d1b
 ---
@@ -49,7 +52,7 @@ Available Potential Energy
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Internal Gravity Waves]({{< baseurl >}}/pages/lecture-notes/demo-html) 
+{{% resource_link 2403900e-594b-6302-abac-dc16ac6c366d "Internal Gravity Waves" %}} 
 {{< tdclose >}}
 
 {{< trclose >}}
