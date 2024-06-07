@@ -2,6 +2,7 @@
 content_type: resource
 description: Animated graphic of IGW solution.
 file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/f3b49d51e415b65a726fc3b94986281c_igw3.gif
+file_size: 3889247
 file_type: image/gif
 image_metadata:
   caption: ''

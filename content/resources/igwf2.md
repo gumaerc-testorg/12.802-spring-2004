@@ -2,6 +2,7 @@
 content_type: resource
 description: Graphic from section on Internal Gravity Waves.
 file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/64be7b0708abd7de877a16e10686328e_igwf2.jpg
+file_size: 51173
 file_type: image/jpeg
 image_metadata:
   caption: ''
