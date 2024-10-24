@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of lecture.
-file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/6f6866c0b8e79988bd019ca4fdaedb36_lte1.pdf
+file: /ol-ocw-studio-app/courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/6f6866c0b8e79988bd019ca4fdaedb36_lte1.pdf
 file_size: 65407
 file_type: application/pdf
 learning_resource_types:
