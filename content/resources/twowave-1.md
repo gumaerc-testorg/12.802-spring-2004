@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Animated graphic from section on Internal Gravity Waves.
-file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/9fe00a79fd5f080b43b630d60329331b_twowave.gif
+file: /ol-ocw-studio-app/courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/9fe00a79fd5f080b43b630d60329331b_twowave.gif
 file_size: 1264401
 file_type: image/gif
 image_metadata:
